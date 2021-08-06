@@ -12,3 +12,7 @@ dataframe = pd.read_csv('C:/Users/root/workspace/machine-learning-datasets/crypt
 dataframe = dataframe[:650000]
 dataframe.to_csv(r'C:/Users/root/workspace/machine-learning-datasets/crypto_eth_usd_10_sec.csv')
 ```
+
+## Running the examples
+
+`C:\Users\root\workspace\machine-learning-datasets\python_scripts>python example.py`
