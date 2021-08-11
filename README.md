@@ -16,3 +16,7 @@ dataframe.to_csv(r'C:/Users/root/workspace/machine-learning-datasets/crypto_eth_
 ## Running the examples
 
 `C:\Users\root\workspace\machine-learning-datasets\python_scripts>python example.py`
+
+## Other examples
+
+https://github.com/tensorflow/examples/tree/master/courses/udacity_intro_to_tensorflow_for_deep_learning
